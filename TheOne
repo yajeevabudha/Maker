@@ -1,6 +1,3 @@
 print("hi")
 
 Dor Elboim: 
-for (;;) {
-  console.log("Hi from Dor");
-}
